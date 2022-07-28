@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.js": "/static/js/main.f01c7bb0.js",
-    "static/media/card-img.jpeg": "/static/media/card-img.036fbbfe88a7d02eae13.jpeg",
+    "main.js": "/static/js/main.73dd5c26.js",
     "static/media/hero.jpg": "/static/media/hero.6c2f7e51a1e94a920a11.jpg",
     "static/media/Evklid.jpg": "/static/media/Evklid.a50e19c95d9ee505e335.jpg",
+    "static/media/card-img.jpg": "/static/media/card-img.730ce49d977756e5af27.jpg",
     "static/media/vicent.jpg": "/static/media/vicent.5295041f20a7a0a1eee4.jpg",
     "static/media/Meta.jpg": "/static/media/Meta.3d8cf4bacf8e0a7a413f.jpg",
     "static/media/error-icon.png": "/static/media/error-icon.fc9ca12e2707851c36c0.png",
@@ -19,9 +19,9 @@
     "static/media/device-mobile.svg": "/static/media/device-mobile.3e3516bdbc7474df1a5d45a12b467952.svg",
     "index.html": "/index.html",
     "static/media/Icon-5.svg": "/static/media/Icon-5.ec0e5aa9ea765328a2d6b31176fe4fb7.svg",
-    "main.f01c7bb0.js.map": "/static/js/main.f01c7bb0.js.map"
+    "main.73dd5c26.js.map": "/static/js/main.73dd5c26.js.map"
   },
   "entrypoints": [
-    "static/js/main.f01c7bb0.js"
+    "static/js/main.73dd5c26.js"
   ]
 }
