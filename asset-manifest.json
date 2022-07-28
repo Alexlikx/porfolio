@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/static/js/main.f01c7bb0.js",
+    "static/media/card-img.jpeg": "/static/media/card-img.036fbbfe88a7d02eae13.jpeg",
+    "static/media/hero.jpg": "/static/media/hero.6c2f7e51a1e94a920a11.jpg",
+    "static/media/Evklid.jpg": "/static/media/Evklid.a50e19c95d9ee505e335.jpg",
+    "static/media/vicent.jpg": "/static/media/vicent.5295041f20a7a0a1eee4.jpg",
+    "static/media/Meta.jpg": "/static/media/Meta.3d8cf4bacf8e0a7a413f.jpg",
+    "static/media/error-icon.png": "/static/media/error-icon.fc9ca12e2707851c36c0.png",
+    "static/media/PS.svg": "/static/media/PS.b38a096f4b33c94ca6fc58149c1d30ab.svg",
+    "static/media/Figma.svg": "/static/media/Figma.3516e5c17b145bbfa076ee9a631ad1a3.svg",
+    "static/media/Icon-4.svg": "/static/media/Icon-4.0c468bc38e02aa5c25c34b24ef550668.svg",
+    "static/media/Icon.svg": "/static/media/Icon.bc7c1bb2dcad07ba0a6fe53136d41610.svg",
+    "static/media/Icon-1.svg": "/static/media/Icon-1.5422b022c942210db4cca6f3467a3255.svg",
+    "static/media/Icon-2.svg": "/static/media/Icon-2.2848966c4e1dacfa058923c40d8685a2.svg",
+    "static/media/visualStudio.svg": "/static/media/visualStudio.0a6aa04c15fb87d90e39cbd96cce1d20.svg",
+    "static/media/Icon-3.svg": "/static/media/Icon-3.a3ebbc6a822da3121b0363fb9b23770a.svg",
+    "static/media/Icon2.svg": "/static/media/Icon2.b88a229c63f7b6b6ad9efdbfb6caaf02.svg",
+    "static/media/device-mobile.svg": "/static/media/device-mobile.3e3516bdbc7474df1a5d45a12b467952.svg",
+    "index.html": "/index.html",
+    "static/media/Icon-5.svg": "/static/media/Icon-5.ec0e5aa9ea765328a2d6b31176fe4fb7.svg",
+    "main.f01c7bb0.js.map": "/static/js/main.f01c7bb0.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f01c7bb0.js"
+  ]
+}
